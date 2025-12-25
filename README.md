@@ -1,16 +1,16 @@
-## Hi there 👋
+# Navis Zuhud
+**Data Analyst | Business Intelligence Specialist**
 
-<!--
-**navisveritas/navisveritas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in building transparent data pipelines and translating complex datasets into actionable business truths.
 
-Here are some ideas to get you started:
+## Featured Work
+- [Cloudstream SaaS Pipeline](https://github.com/navisveritas/cloudstream-saas-pipeline): End-to-end SQL and Tableau architecture.
+- [Predictive Churn Modeling](https://github.com/navisveritas/predictive-churn-modeling): ML-driven retention strategy in Python.
+- [Revenue Forecasting](https://github.com/navisveritas/retail-revenue-forecasting): Time-series analysis using FRED economic data.
+- [Customer Segmentation](https://github.com/navisveritas/customer-segmentation-rfm): RFM clustering for targeted marketing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Toolkit
+- Languages: SQL (MySQL), Python
+- BI Tools: Tableau Desktop
+- Libraries: Pandas, Scikit-Learn, Matplotlib, Seaborn
+- Methodologies: RFM Analysis, Time-Series Forecasting, Classification
