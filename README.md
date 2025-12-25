@@ -4,7 +4,7 @@
 I specialize in building transparent data pipelines and translating complex datasets into actionable business truths.
 
 ## Featured Work
-- [Cloudstream SaaS Pipeline](https://github.com/navisveritas/cloudstream-saas-pipeline): End-to-end SQL and Tableau architecture.
+- [Cloudstream SaaS: Full-Stack Pipeline](https://github.com/navisveritas/cloudstream-saas-pipeline): End-to-end SQL and Tableau architecture.
 - [Predictive Churn Modeling](https://github.com/navisveritas/predictive-churn-modeling): ML-driven retention strategy in Python.
 - [Revenue Forecasting](https://github.com/navisveritas/retail-revenue-forecasting): Time-series analysis using FRED economic data.
 - [Customer Segmentation](https://github.com/navisveritas/customer-segmentation-rfm): RFM clustering for targeted marketing.
