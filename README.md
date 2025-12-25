@@ -14,3 +14,7 @@ I specialize in building transparent data pipelines and translating complex data
 - BI Tools: Tableau Desktop
 - Libraries: Pandas, Scikit-Learn, Matplotlib, Seaborn
 - Methodologies: RFM Analysis, Time-Series Forecasting, Classification
+
+## Education & Certifications
+- Certified Data Analyst (Beginner & Intermediate) – Growia Education
+- Technical Focus: SQL Database Design, Python for Data Science, and Tableau Business Intelligence.
