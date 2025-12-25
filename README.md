@@ -1,5 +1,5 @@
 # Navis Zuhud
-**Data Analyst | Business Intelligence Specialist**
+**Data Analyst | SQL & Python**
 
 I specialize in building transparent data pipelines and translating complex datasets into actionable business truths.
 
