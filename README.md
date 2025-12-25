@@ -1,7 +1,7 @@
 # Navis Zuhud
 **Data Analyst | SQL & Python**
 
-I specialize in building transparent data pipelines and translating complex datasets into actionable business truths.
+I specialize in building transparent data pipelines and translating complex datasets into actionable business strategy.
 
 ## Featured Work
 - [Cloudstream SaaS: Full-Stack Data Pipeline](https://github.com/navisveritas/cloudstream-saas-pipeline): End-to-end SQL and Tableau architecture.
