@@ -4,7 +4,7 @@
 I specialize in building production-grade data pipelines, mission-critical automations, and translating complex datasets into actionable business strategy.
 
 ## Featured Work
-- [Idempotent CRM Automation Framework](https://github.com/navisveritas/idempotent-crm-automation): Production-grade n8n pipeline with GHL/Slack integration
+- [Idempotent CRM Automation Framework](https://github.com/navisveritas/idempotent-crm-automation): Production-grade n8n pipeline with GHL/Slack integration.
 - [Cloudstream SaaS: Full-Stack Data Pipeline](https://github.com/navisveritas/cloudstream-saas-pipeline): End-to-end SQL and Tableau architecture.
 - [Predictive Churn Modeling](https://github.com/navisveritas/predictive-churn-modeling): ML-driven retention strategy in Python.
 - [Revenue Forecasting](https://github.com/navisveritas/retail-revenue-forecasting): Time-series analysis using FRED economic data.
