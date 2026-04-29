@@ -4,7 +4,7 @@
 I specialize in building production-grade data pipelines, mission-critical automations, and translating complex datasets into actionable business strategy.
 
 ## Featured Work
-- [SaaS Analytics and GTM/GA4 Integration](https://github.com/navisveritas/saas-analytics-and-gtm-ga4-integration): GTM and GA4 website integration with event tracking and automated validation.
+- [SaaS Analytics and GTM/GA4 Integration](https://github.com/navisveritas/saas-analytics-and-gtm-ga4-integration): SaaS Analytics and GTM/GA4 Implementation.
 - [Idempotent CRM Automation Framework](https://github.com/navisveritas/idempotent-crm-automation): Production-grade n8n pipeline with GHL/Slack integration.
 - [AI-Driven Payment Event Automation](https://github.com/navisveritas/ai-driven-payment-automation): Routing GHL payment logs to Slack or Gmail via Gemini AI.
 - [Cloudstream SaaS: Full-Stack Data Pipeline](https://github.com/navisveritas/cloudstream-saas-pipeline): End-to-end SQL and Tableau architecture.
