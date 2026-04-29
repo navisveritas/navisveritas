@@ -19,7 +19,7 @@ I specialize in building production-grade data pipelines, mission-critical autom
 - Methodologies: RFM Analysis, Time-Series Forecasting, Classification, Conversion Funnel Auditing, Event-Driven Tracking
 
 ## Education & Certifications
-- Google Analytics Certification – Specialized in GA4 configuration, event-driven tracking architecture, and conversion modeling.
+- Google Analytics Certification – Google Skillshop
 - C2 Proficient (73/100) – EF SET English Certificate (Mastery level for technical documentation and international teams)
 - Certified Data Analyst (Beginner & Intermediate) – Growia Education
 - Technical Focus: Digital Analytics Engineering (GTM/GA4), SQL Database Design, Python for Automation & Data Science, and Tableau Business Intelligence.
